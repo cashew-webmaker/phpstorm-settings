@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".scratchboard" type="PLAIN_TEXT" />
+      <mapping ext="ph" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="variant" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
